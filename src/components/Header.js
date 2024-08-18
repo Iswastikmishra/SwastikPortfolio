@@ -23,7 +23,7 @@ const Header = () => {
                         <ScrollLink to="contact" smooth={true} duration={500} className="mr-5 hover:text-gray-900 cursor-pointer">Contact Me</ScrollLink>
                         <RouterLink to={'/chin_tapak_dum_dum'} className="mr-5 hover:text-gray-900 cursor-pointer">PNF</RouterLink>
                     </nav>
-                    <RouterLink to={'/SwastikMishra.pdf'} target='_blank'>
+                    <RouterLink to={'SwastikMishra.pdf'} target='_blank'>
 
                         <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Resume
                             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
