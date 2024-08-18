@@ -6,7 +6,7 @@ import PageNotFound from './pages/PageNotFound';
 const AppRoutes = () => {
   const routes = useRoutes([
     { path: '/', element: <HomePage /> },
-    { path: '/Home', element: <HomePage /> },
+    { path: '/SwastikPortfolio', element: <HomePage /> },
     { path: '*', element: <PageNotFound /> },
     // { path: '/about', element: <About /> },
     // add more routes here

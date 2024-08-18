@@ -112,7 +112,7 @@ const NotFoundPage = () => {
           >
             Go back
           </a> */}
-          <RouterLink to={'/Home'} className="text-gray-500 font-mono text-xl bg-gray-200 p-3 rounded-md hover:shadow-md cursor-pointer">Go Back</RouterLink>
+          <RouterLink to={'/SwastikPortfolio'} className="text-gray-500 font-mono text-xl bg-gray-200 p-3 rounded-md hover:shadow-md cursor-pointer">Go Back</RouterLink>
 
         </center>
       </div>
