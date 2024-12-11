@@ -15,7 +15,7 @@ const About = () => {
 
                     <div className="lg:w-4/5 ml-auto flex flex-wrap py-4">
                         <div className="w-80 h-80 rounded-full overflow-hidden object-center flex items-center justify-center mx-auto lg:mx-0">
-                            <img alt="ecommerce" className="object-cover lg:w-80 lg:h-80 w-full h-full object-center" src="dp4.jpg" />
+                            <img alt="ecommerce" className="object-cover lg:w-80 lg:h-80 w-full h-full object-center" src="/SwastikPortfolio/dp4.jpg" />
                         </div>
                         <div className="lg:w-1/2 w-full lg:pl-16 lg:py-6 mt-6 lg:mt-0 flex flex-col justify-center text-center lg:text-start">
                             <p className="leading-relaxed text-lg mb-4">
