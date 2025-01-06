@@ -19,7 +19,7 @@ const About = () => {
                         </div>
                         <div className="lg:w-1/2 w-full lg:pl-16 lg:py-6 mt-6 lg:mt-0 flex flex-col justify-center text-center lg:text-start">
                             <p className="leading-relaxed text-lg mb-4">
-                                Hello, I'm Swastik Mishra, a 21-year-old Web Developer and Computer Science Engineer living in Bengaluru, India.
+                                Hello, I'm Swastik Mishra, a 22-year-old Web Developer and Computer Science Engineer living in Bengaluru, India.
                             </p>
                             <p className="leading-relaxed text-lg mb-4">
                                 I have completed my Bachelors of Technology [2020-2024] in Computer Science stream from Vindhya Institute of Technology and Science, Satna (M.P.).
