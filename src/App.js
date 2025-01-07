@@ -1,5 +1,5 @@
 import './App.css';
-import { Routes, Route, BrowserRouter, useRoutes } from "react-router-dom";
+import { BrowserRouter, useRoutes } from "react-router-dom";
 import HomePage from './pages/HomePage';
 import PageNotFound from './pages/PageNotFound';
 
@@ -8,8 +8,6 @@ const AppRoutes = () => {
     { path: '/', element: <HomePage /> },
     { path: '/SwastikPortfolio', element: <HomePage /> },
     { path: '*', element: <PageNotFound /> },
-    // { path: '/about', element: <About /> },
-    // add more routes here
   ]);
 
   return routes;
@@ -17,21 +15,10 @@ const AppRoutes = () => {
 
 function App() {
   return (
-
-      <>
-        <BrowserRouter>
-          <AppRoutes />
-        </BrowserRouter>
-
-        {/* <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="*" element={<HomePage />} />
-      </Routes> */}
-      </>
+    <BrowserRouter>
+      <AppRoutes />
+    </BrowserRouter>
   );
 }
-
-// const HomePage = () => <h2>Home</h2>;
-// const About = () => <h2>About</h2>;
 
 export default App;

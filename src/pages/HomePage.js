@@ -3,7 +3,6 @@ import Header from '../components/Header'
 import Content from '../components/Content'
 import About from '../components/About'
 import Contact from '../components/Contact'
-// import Skills from '../components/Skills'
 import Footer from '../components/Footer'
 import Projects from '../components/Projects'
 
@@ -15,7 +14,6 @@ const HomePage = () => {
             <Header />
             <Content />
             <About />
-            {/* <Skills /> */}
             <SkillSet />
             <Projects />
             <Contact />
