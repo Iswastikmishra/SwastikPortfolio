@@ -62,7 +62,6 @@ const Contact = () => {
               <div className="flex items-center justify-center text-2xl mx-auto text-gray-500s pb-8 text-center">
                 <div className='font-extrabold text-[rgb(35,52,86)] flex flex-row object-center'>
                   <span> <CiLocationOn /> </span>
-                  <span>VGP Layout, Kudlu, Bengaluru (India).</span>
                 </div>
               </div>
             </div>
