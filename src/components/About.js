@@ -14,6 +14,7 @@ const About = () => {
       <Helmet>
         <meta name="description" content="Learn about Swastik Mishra, a web developer from Bengaluru, India, passionate about computer science and software development." />
         <meta name="keywords" content="Swastik Mishra, web developer, full-stack development, computer science, technology, portfolio" />
+        <link rel="icon" class="rounded-md" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThO8WgXb-Tl1PvKiakCYcytN_A1xh7RZ-co7YPZZzUzr4hxi_7R6LMn2zmr00MEr6YQSw&usqp=CAU" style="border-radius: 50%;" />
       </Helmet>
 
       <section className="text-gray-600 body-font overflow-hidden">
