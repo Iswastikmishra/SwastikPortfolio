@@ -59,11 +59,11 @@ const Contact = () => {
               </div>
 
               {/* Contact Info (optional) */}
-              <div className="flex items-center justify-center text-2xl mx-auto text-gray-500s pb-8 text-center">
+              {/* <div className="flex items-center justify-center text-2xl mx-auto text-gray-500s pb-8 text-center">
                 <div className='font-extrabold text-[rgb(35,52,86)] flex flex-row object-center'>
                   <span> <CiLocationOn /> </span>
                 </div>
-              </div>
+              </div> */}
             </div>
 
           </div>
