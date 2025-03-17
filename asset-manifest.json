@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SwastikPortfolio/static/css/main.c8d4eab8.css",
-    "main.js": "/SwastikPortfolio/static/js/main.feeb8d8b.js",
+    "main.js": "/SwastikPortfolio/static/js/main.bf4651f7.js",
     "static/js/453.ed3810f9.chunk.js": "/SwastikPortfolio/static/js/453.ed3810f9.chunk.js",
     "index.html": "/SwastikPortfolio/index.html",
     "main.c8d4eab8.css.map": "/SwastikPortfolio/static/css/main.c8d4eab8.css.map",
-    "main.feeb8d8b.js.map": "/SwastikPortfolio/static/js/main.feeb8d8b.js.map",
+    "main.bf4651f7.js.map": "/SwastikPortfolio/static/js/main.bf4651f7.js.map",
     "453.ed3810f9.chunk.js.map": "/SwastikPortfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8d4eab8.css",
-    "static/js/main.feeb8d8b.js"
+    "static/js/main.bf4651f7.js"
   ]
 }
